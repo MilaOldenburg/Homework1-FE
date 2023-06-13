@@ -1,0 +1,40 @@
+h1{
+    text-align: center;
+}
+
+.hobby{
+    border: 5px solid salmon;
+    background-color: lightsalmon;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.hobby h2, .work h2, .friends h2{
+    text-align: center;
+}
+
+.hobby  img, .work img, .friends img{
+    width: 300px;
+
+}
+.hobby p, .work p, .friends p{
+    font-size: 20px;
+}
+.work{
+    border: 5px solid blue;
+    background-color: lightskyblue;
+}
+
+.friends{
+    border: 5px solid salmon;
+    background-color: lightsalmon;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+.{
+    text-align: center;
+    border: 5px solid salmon;
+    background-color: lightsalmon;
+    padding: 20px;
+    margin-bottom: 20px;
+}

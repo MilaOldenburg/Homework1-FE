@@ -1,0 +1,22 @@
+div{
+    width: 600px; 
+}
+
+p{
+    text-indent: 50px;
+    line-height: 30px;
+}
+h1,h2{
+    color: rgba(118, 60, 185, 0.774);
+    text-align: center;
+    font-weight: bold;
+    margin: 25px 0;
+}
+.CMC{
+    color: rgb(227, 61, 216);
+    font-weight: bold;
+}
+.italia{
+    font-style: initial;
+    color: rgb(12, 147, 210);
+}
